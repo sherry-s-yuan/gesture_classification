@@ -26,5 +26,5 @@ The model is already trained, and main.py is set up using trained model. (the ve
            6       0.93      0.90      0.91       396
 
     accuracy                           0.91      2832
-   macro avg       0.91      0.91      0.91      2832
-weighted avg       0.91      0.91      0.91      2832
+    macro avg      0.91      0.91      0.91      2832
+    weighted avg   0.91      0.91      0.91      2832
