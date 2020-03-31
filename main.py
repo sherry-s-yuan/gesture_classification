@@ -78,12 +78,16 @@ with open('data.pickle', 'wb') as f:
 #     data = pickle.load(f)
 
 model = BILSTM()
+
+# do either one of the below, note, the model is already trained and stored in model.h5
+model.load_model()
+# model.train(data.X_train, data.zc_features_train, data.ssc_features_train, data.features_1d_train, data.Y_train)
+
 model.evaluate(data.X_test, data.zc_features_test, data.ssc_features_test, data.features_1d_test, data.Y_test)
 # to predict: you need to pass normalized data into model.predict(self, X, zc_features, ssc_features, features_1d)
 # to normalize, you can use data.normalize(X, zc_features, ssc_features, features_1d)
 
-# model.train(data.X_train, data.zc_features_train, data.ssc_features_train, data.features_1d_train, data.Y_train)
-# model.evaluate(data.X_test, data.zc_features_test, data.ssc_features_test, data.features_1d_test, data.Y_test)
+## save the model if it achieve a better accuracy
 # save = input("Save model?")
 # # previous test accuracy: 91
 # if int(save) == 1:
