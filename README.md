@@ -13,3 +13,18 @@ Follow documentation in main.py
 
 ## Note
 The model is already trained, and main.py is set up using trained model. (the version that trains is commented)
+
+
+Evaluation Matrix
+              precision    recall  f1-score   support
+
+           1       0.99      0.98      0.99       367
+           2       0.91      0.96      0.93       502
+           3       0.90      0.86      0.88       523
+           4       0.84      0.92      0.88       517
+           5       0.90      0.84      0.87       527
+           6       0.93      0.90      0.91       396
+
+    accuracy                           0.91      2832
+   macro avg       0.91      0.91      0.91      2832
+weighted avg       0.91      0.91      0.91      2832
