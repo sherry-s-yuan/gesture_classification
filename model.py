@@ -4,8 +4,6 @@ from keras.optimizers import Adam
 from keras.models import load_model
 from sklearn.metrics import classification_report
 import numpy as np
-import os
-
 
 class BILSTM:
     def train(self, X_train, zc_features_train, ssc_features_train, features_1d_train, Y_train, num_activation=24):
@@ -61,7 +59,6 @@ class BILSTM:
 
     def predict(self, X, zc_features, ssc_features, features_1d):
         # precondition: passed in data must be normalized.
-        self.load_model()
         return self.get_class(self.model.predict([X, zc_features, ssc_features, features_1d]))
 
     def get_class(self, predictions):
