@@ -1,5 +1,7 @@
 # gesture_classification
-Classify 6 different hand gestures from EMG signals (8 channels) using Bidirectional-LSTM, achiving an accuracy of 91%
+Classify 6 different hand gestures from EMG signals (8 channels) using Bidirectional-LSTM, achiving an accuracy of 91%.
+
+https://docs.google.com/presentation/d/1S-tZIeXz5ZrqtYjcxkbFHGBd_ZCQBcK-lrb3u8WdbEw/edit?usp=sharing
 
 ## Download Data
 To download data required for training/testing, follow the instruction in README (the one in raw folder)
