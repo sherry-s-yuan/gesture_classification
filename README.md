@@ -3,6 +3,8 @@ Classify 6 different hand gestures from EMG signals (8 channels) using Bidirecti
 
 https://docs.google.com/presentation/d/1S-tZIeXz5ZrqtYjcxkbFHGBd_ZCQBcK-lrb3u8WdbEw/edit?usp=sharing
 
+https://colab.research.google.com/drive/1ilmsd0zbhoplAQs-3-lcVRK7BD2w266t?usp=sharing
+
 ## Download Data
 To download data required for training/testing, follow the instruction in README (the one in raw folder)
 
