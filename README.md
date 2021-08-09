@@ -7,6 +7,8 @@ https://colab.research.google.com/drive/1ilmsd0zbhoplAQs-3-lcVRK7BD2w266t?usp=sh
 
 https://docs.google.com/presentation/d/1odYnBfOFzMnyk0dq3HuuZ9Qx2JZ46el6a-IdfatW9ig/edit?usp=sharing
 
+https://docs.google.com/document/d/1fqHOCs9yaafqJTCGch0EJN-a-lbHf-e6C8YGUgfd6uU/edit?usp=sharing
+
 ## Download Data
 To download data required for training/testing, follow the instruction in README (the one in raw folder)
 
