@@ -9,6 +9,8 @@ https://docs.google.com/presentation/d/1odYnBfOFzMnyk0dq3HuuZ9Qx2JZ46el6a-IdfatW
 
 https://docs.google.com/document/d/1fqHOCs9yaafqJTCGch0EJN-a-lbHf-e6C8YGUgfd6uU/edit?usp=sharing
 
+https://docs.google.com/document/d/1GbC57zn7GvMN1oU75FAP7olxzZ-ef7IPO0xspEOb8HI/edit?usp=sharing
+
 ## Download Data
 To download data required for training/testing, follow the instruction in README (the one in raw folder)
 
