@@ -15,6 +15,8 @@ https://docs.google.com/document/d/1VmB_VKGPw4U-Pls0y5d9pWIKKpnJDRvY4_jNekYAebk/
 
 https://docs.google.com/document/d/1ZZsI_LtQugMpogWA_1rXggQWapcsi9YxMs8zDaq7FXk/edit?usp=sharing
 
+https://docs.google.com/document/d/1VmB_VKGPw4U-Pls0y5d9pWIKKpnJDRvY4_jNekYAebk/edit
+
 ## Download Data
 To download data required for training/testing, follow the instruction in README (the one in raw folder)
 
